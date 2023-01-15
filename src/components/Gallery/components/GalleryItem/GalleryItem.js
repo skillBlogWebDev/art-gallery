@@ -32,7 +32,7 @@ export const GalleryItem = ({ src, title, created, authorId, locationId }) => {
     <li className="gallery-item">
       <img
         className="gallery-item__img"
-        src={`https://test-front.framework.team/${src}`}
+        src={`${process.env.REACT_APP_SERVER_URL}/${src}`}
         alt={title}
       />
       <div className="gallery-item__inner">
