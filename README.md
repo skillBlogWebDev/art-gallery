@@ -1,4 +1,4 @@
-# Getting Started Art Gallery!
+# Getting Started with Art Gallery!
 
 In the project directory, you can run:
 
