@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/art-gallery/static/css/main.c2f7d091.css",
-    "main.js": "/art-gallery/static/js/main.d43bb0db.js",
+    "main.js": "/art-gallery/static/js/main.51c46140.js",
     "static/media/Roboto-Bold.woff": "/art-gallery/static/media/Roboto-Bold.3f2cbde6b72e8d05669f.woff",
     "static/media/Roboto-Light.woff": "/art-gallery/static/media/Roboto-Light.df0f59d80526acc6d0cd.woff",
     "index.html": "/art-gallery/index.html",
     "main.c2f7d091.css.map": "/art-gallery/static/css/main.c2f7d091.css.map",
-    "main.d43bb0db.js.map": "/art-gallery/static/js/main.d43bb0db.js.map"
+    "main.51c46140.js.map": "/art-gallery/static/js/main.51c46140.js.map"
   },
   "entrypoints": [
     "static/css/main.c2f7d091.css",
-    "static/js/main.d43bb0db.js"
+    "static/js/main.51c46140.js"
   ]
 }
