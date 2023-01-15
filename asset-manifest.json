@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TeemPresents/art-gallery/static/css/main.4197b4d7.css",
-    "main.js": "/TeemPresents/art-gallery/static/js/main.8c87038a.js",
+    "main.js": "/TeemPresents/art-gallery/static/js/main.d43bb0db.js",
     "static/media/Roboto-Bold.woff": "/TeemPresents/art-gallery/static/media/Roboto-Bold.3f2cbde6b72e8d05669f.woff",
     "static/media/Roboto-Light.woff": "/TeemPresents/art-gallery/static/media/Roboto-Light.df0f59d80526acc6d0cd.woff",
     "index.html": "/TeemPresents/art-gallery/index.html",
     "main.4197b4d7.css.map": "/TeemPresents/art-gallery/static/css/main.4197b4d7.css.map",
-    "main.8c87038a.js.map": "/TeemPresents/art-gallery/static/js/main.8c87038a.js.map"
+    "main.d43bb0db.js.map": "/TeemPresents/art-gallery/static/js/main.d43bb0db.js.map"
   },
   "entrypoints": [
     "static/css/main.4197b4d7.css",
-    "static/js/main.8c87038a.js"
+    "static/js/main.d43bb0db.js"
   ]
 }
