@@ -1,0 +1,38 @@
+.header {
+  padding-top: 23px;
+  padding-bottom: 10px;
+
+  @media (min-width: 400px) {
+    padding-top: 33px;
+    padding-bottom: 20px;
+  }
+
+
+  &__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    & button {
+      margin: 0;
+      padding: 0;
+      background-color: transparent;
+      border: none;
+      cursor: pointer;
+
+      &.dark-mode {
+        svg {
+          fill: #ffffff;
+          transition: fill .3s ease-in-out;
+        }
+      }
+
+      &.light-mode {
+        svg {
+          fill: #000000;
+          transition: fill .3s ease-in-out;
+        }
+      }
+    }
+  }
+}

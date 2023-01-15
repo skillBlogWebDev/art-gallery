@@ -1,0 +1,25 @@
+.gallery-input {
+  padding: 0;
+  margin: 0;
+  padding-left: 15px;
+  padding-top: 3px;
+  background-color: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+
+  &.dark-mode {
+    color: #fff;
+    border: 1px solid #fff;
+
+    &::placeholder {
+      color: rgba(255, 255, 255, 0.3);
+    }
+  }
+
+  &::placeholder {
+    color: rgba(0, 0, 0, 0.3);
+  }
+}
