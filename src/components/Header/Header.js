@@ -4,7 +4,10 @@ import './styles.scss'
 export const Header = ({ handleToggleMode, mode }) => (
   <header className="header">
     <div className="container header__container">
-      <a href="/" className="header__logo">
+      <a
+        href="https://teempresents.github.io/art-gallery/"
+        className="header__logo"
+      >
         <img src="img/logo.svg" alt="FWT logo" />
       </a>
       <button
